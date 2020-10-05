@@ -1,0 +1,9 @@
+p{
+    color:red;
+    font-weight:bold;
+    text-align: center;
+    background: url('./image.jpg')
+}
+button{
+    background:green;
+}
